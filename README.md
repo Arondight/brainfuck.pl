@@ -2,7 +2,7 @@
 
 ## ABOUT
 
-This is a [Brainfuck](ID_BRAINFUCK) interpreter writen in Perl.
+This is a [Brainfuck][ID_BRAINFUCK] interpreter writen in Perl.
 
 [ID_BRAINFUCK]: https://en.wikipedia.org/wiki/Brainfuck "What is Brainfuck?"
 
