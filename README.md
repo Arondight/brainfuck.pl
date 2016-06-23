@@ -18,7 +18,7 @@ This is a [Brainfuck](ID_BRAINFUCK) interpreter writen in Perl.
 | --- | --- |
 | [add.bf](add.bf) | Read the two digits from standard input and print the sum |
 | [hello.bf](hello.bf) | Print "Hello World!" |
-| [Upper.bf](Upper.bf) | Convert a lowercase letter to uppercase |
+| [upper.bf](upper.bf) | Convert a lowercase letter to uppercase |
 
 ## WARNNING
 
