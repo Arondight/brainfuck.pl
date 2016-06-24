@@ -16,13 +16,13 @@ This is a [Brainfuck][ID_BRAINFUCK] interpreter writen in Perl.
 
 | File | Function |
 | --- | --- |
-| [add.bf](add.bf) | Read the two digits from standard input and print the sum |
+| [add.bf](add.bf) | Read two digits from standard input and print the sum |
 | [hello.bf](hello.bf) | Print "Hello World!" |
 | [upper.bf](upper.bf) | Convert a lowercase letter to uppercase |
 
 ## WARNNING
 
-No error handling, because this is brainfuck!
+No error handling, because this is Brainfuck!
 
 ## COPYRIGHT
 
