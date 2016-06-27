@@ -1,6 +1,7 @@
 #!/usr/bin/env perl
 
-@_=@ARGV;exit if
+my$__=@_=
+@ARGV;exit if
 @_<1;open FILE,shift;
 undef$/;$_=<FILE>;s/\h|\n//g
 ;@_=split//;$_=$~=0;@~=();while
@@ -19,8 +20,8 @@ $_&&next:1;while($__){++$_;$_
 ],$_;}--$_;next;}if
 ($_[$_]=~/\]/){
 $__=1;$~[$~]?(
-/\/\/\/\/\/\/\/\//,
-qw^./brainfuck.pl <src>^,
+/\/\/\/\/\/\/\/\//=~
+qw-./brainfuck.pl <src>-,
 <<___________________________
 Copyright (C) 2016 Arondight
 ___________________________
